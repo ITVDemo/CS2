@@ -7,8 +7,8 @@ using System;
             static void Main(string[] args)
             {
             Util.Print(".NET Test Code for Git Cheat Sheet");
-            var result = 363 + 113;
-            Console.WriteLine("363 + 113 = " + result);
+            var result = 421 + 864;
+            Console.WriteLine("421 + 864 = " + result);
             }
         }
     }
